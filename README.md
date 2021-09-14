@@ -28,4 +28,3 @@ También aprendí a hacer comentarios de código, a continuación un ejemplo de 
 
     # Hola mundo
 ```
-
