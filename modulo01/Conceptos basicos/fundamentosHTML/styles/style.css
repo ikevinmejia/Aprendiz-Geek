@@ -1,0 +1,41 @@
+/*
+1. Posicionamiento
+2. Modelo de caja (Box model)
+3. Tipografía
+4. Estilos visuales
+5. Otros
+*/
+
+html {
+    font-size: 62.5%;
+    font-family: 'Arial', Georgia, 'Times New Roman';
+    background-color: #f3f4f5;
+}
+
+h1 {
+    font-size: 2.4rem; /* 24px */
+    color: black;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+p, li {
+    font-family: Georgia;
+    color: #757575;
+}
+
+p {
+    font-size: 1.8rem; /* 18px */
+}
+
+li {
+    font-size: 1.5rem;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
